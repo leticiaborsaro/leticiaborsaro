@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leticiaborsaro
 - 👀 I’m interested in anything creative!
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently studying Computer Science in UniCEUB
 
 <!---
 leticiaborsaro/leticiaborsaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
