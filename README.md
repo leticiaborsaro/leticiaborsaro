@@ -22,12 +22,3 @@ Welcome to my GitHub profile! I'm Letícia Borsaro, a Computer Science student w
   <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
   <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
 </div>
-
-## 📊 GitHub Stats
-![Letícia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaborsaro&show_icons=true&theme=radical)
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaborsaro&layout=compact&theme=radical)
-
-
-
