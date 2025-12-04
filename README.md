@@ -8,9 +8,7 @@
 ---
 
 ## GitHub Stats
-[Letícia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaborsaro&show_icons=true&theme=tokyonight)
 
-[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaborsaro&layout=compact&theme=tokyonight)
 
 ---
 
