@@ -7,11 +7,6 @@
 
 ---
 
-## GitHub Stats
-
-
----
-
 ## Basic Knowledge - Conhecimento Básico
 
 <div style="display: flex;">
